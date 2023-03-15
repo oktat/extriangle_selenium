@@ -1,0 +1,18 @@
+{
+  "name": "app33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^111.0.0",
+    "lite-server": "^2.6.1",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
